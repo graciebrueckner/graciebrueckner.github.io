@@ -12,4 +12,8 @@
     <loc>https://your-website-url.example.com/index.html</loc>
     <lastmod>2026-04-10T18:45:48.689Z</lastmod>
   </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/cbbpoll/index.html</loc>
+    <lastmod>2026-04-24T15:45:29.276Z</lastmod>
+  </url>
 </urlset>
